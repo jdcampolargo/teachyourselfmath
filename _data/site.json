@@ -1,21 +1,18 @@
 {
-  "name": "Spacebook",
-  "subtitle": "Create a modern notebook to document or explain almost anything.",
+  "name": "Teach Yourself Math",
+  "subtitle": "Learn What Math is Really About",
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
-  "footer": "Made with ❤ in Minneapolis",
   "url": "https://spacebook.app",
-  "githubUrl": "https://github.com/<username>/<repository>",
-  "githubBranch": "main",
   "navigationStyle": "vertical",
-  "emoji": "💥",
-  "enableSearch": true,
+  "emoji": "💯",
+  "enableSearch": false,
   "enableDarkMode": true,
-  "enableEditButton": true,
-  "enableDatestamp": true,
+  "enableEditButton": false,
+  "enableDatestamp": false,
   "enableGithubLink": false,
   "enableContact": false,
   "enableNetlifyCMS": false,
   "enableComments": false,
   "enableEncryption": false,
-  "enablePageNavigation": true
+  "enablePageNavigation": false
 }
